@@ -1,0 +1,29 @@
+aid: refundid
+url: https://raw.githubusercontent.com/api-evangelist/refundid/refs/heads/main/apis.yml
+name: Refundid
+x-type: company
+description: >-
+  Refundid is an instant-refund platform for e-commerce returns in Australia/NZ. Provides instant cash refund at the point of return initiation.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - E-Commerce
+  - Returns
+  - Refunds
+  - Australia
+  - Post-Purchase
+created: '2026-05-08'
+modified: '2026-05-08'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.refundid.com.au/
+  - type: Plans
+    url: plans/refundid-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/refundid-rate-limits.yml
+  - type: FinOps
+    url: finops/refundid-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
