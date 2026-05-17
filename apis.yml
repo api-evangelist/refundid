@@ -1,7 +1,7 @@
 aid: refundid
 url: https://raw.githubusercontent.com/api-evangelist/refundid/refs/heads/main/apis.yml
 name: Refundid
-x-type: company
+kind: company
 description: >-
   Refundid is an instant-refund platform for e-commerce returns in Australia/NZ. Provides instant cash refund at the point of return initiation.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
