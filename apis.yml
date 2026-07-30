@@ -4,7 +4,19 @@ name: Refundid
 kind: company
 description: >-
   Refundid is an instant-refund platform for e-commerce returns in Australia/NZ. Provides instant cash refund at the point of return initiation.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/refundid.png
 tags:
   - E-Commerce
   - Returns
