@@ -35,10 +35,12 @@ tags:
   - Australia
   - Post-Purchase
 created: '2026-05-08'
-modified: '2026-05-08'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://refundid.com/blog
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/refundid
   - type: Website
