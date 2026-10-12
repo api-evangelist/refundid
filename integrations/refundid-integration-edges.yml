@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/refundid/integrations
+- https://n8n.io/integrations/refundid/
+- https://composio.dev/toolkits/refundid
+- https://monid.ai/tools/refundid
+checked:
+- https://composio.dev/toolkits/refundid
+- https://monid.ai/tools/refundid
+- https://n8n.io/integrations/refundid/
+- https://zapier.com/apps/refundid/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
